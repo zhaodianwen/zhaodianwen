@@ -58,3 +58,6 @@
 
 
 ![Hritik's github stats](https://github-readme-stats.vercel.app/api?username=zhaodianwen&show_icons=true&hide_border=true)
+
+
+[![HitCount](http://hits.dwyl.com/zhaodianwen/zhaodianwen/zhaodianwen.svg)](http://hits.dwyl.com/zhaodianwen/zhaodianwen/zhaodianwen) <br>
