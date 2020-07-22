@@ -44,9 +44,8 @@
 
 |  <a href="https://hritik5102.github.io/"><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
-|       **[Dianwen Zhao](https://zhaodianwen.github.io/
-
- <a href="https://twitter.com/s08prashant">
+|       **[Dianwen Zhao](https://zhaodianwen.github.io/)**                                                                                |
+|  <a href="https://twitter.com/s08prashant">
   <img align="center" alt="Prashant's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/prashant-singh-08/">
@@ -61,8 +60,7 @@
 <a href="https://www.hackerrank.com/singh08prashant">
   <img align="center" alt="Prashant's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
-
-)**                                                                                |
+</a> |
 
 
 ![Hritik's github stats](https://github-readme-stats.vercel.app/api?username=zhaodianwen&show_icons=true&hide_border=true)
