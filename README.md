@@ -6,7 +6,7 @@
 
 :bulb: Open source contributor at **[GitHub](https://zhaodianwen.github.io/)**
 
-👨‍🎓  M.Sc. in Business Analytics from the **[Nanyang Technological University](https://www.ntu.edu.sg/Pages/home.aspx)**
+👨‍🎓  M.Sc. in Business Analytics from the **[Nanyang Business School, Nanyang Technological University](https://www.ntu.edu.sg/Pages/home.aspx)**
 
 🎓 B.B.A in Global Business Management and Finance from the **[School of Management and Economics, The Chinese University of Hong Kong, shenzhen](https://www.cuhk.edu.cn/)**
 
