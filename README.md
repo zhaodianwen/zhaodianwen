@@ -1,19 +1,19 @@
-# zhaodianwen
+# Hey there! 👋 </h1>
 
-### Hey 👋, I'm [Dianwen Zhao](https://zhaodianwen.github.io/) 👨‍💻
+### I'm [Dianwen Zhao](https://zhaodianwen.github.io/) :smiley:
 
-:smiley: Technical member of **[Team Z](https://zhaodianwen.github.io/)**
+👨‍💻 Technical member of **[Team Z](https://zhaodianwen.github.io/)**
 
-‍🎓 MSc in Business Analytics from the **[Nanyang Technological University](https://www.ntu.edu.sg/Pages/home.aspx)**
+👨‍🎓 MSc in Business Analytics from the **[Nanyang Technological University](https://www.ntu.edu.sg/Pages/home.aspx)**
 
-👨‍🎓 B.B.A in Global Business Management and Finance from the **[School of Management and Economics, The Chinese University of Hong Kong, shenzhen](https://www.cuhk.edu.cn/)**
+🎓 B.B.A in Global Business Management and Finance from the **[School of Management and Economics, The Chinese University of Hong Kong, shenzhen](https://www.cuhk.edu.cn/)**
 
 ### About me :eyes:
 
-- :dart: Data Business Analytics | Machine learning | Deep learning | FinTech   
-- :heart: Open source contributor at **[GitHub](https://zhaodianwen.github.io/)**
+- :toolbox: Data Business Analytics | Machine learning | Deep learning | FinTech   
+- :bulb: Open source contributor at **[GitHub](https://zhaodianwen.github.io/)**
 - :writing_hand: Writing blogs on  **[Blog](https://zhaodianwen.github.io/)**
-- :e-mail: Ask me about anything ; **[zhaodianwen@outlook.com](zhaodianwen@outlook.com)**
+- :mailbox_with_mail: Ask me about anything ; **[zhaodianwen@outlook.com](zhaodianwen@outlook.com)**
 
 ![Hritik's github stats](https://github-readme-stats.vercel.app/api?username=zhaodianwen&show_icons=true&hide_border=true)
 
@@ -28,6 +28,14 @@
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/hritik5102)](https://github.com/hritik5102)
 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/hritik5102)](https://gitlab.com/hritik5102) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/hritik5102)](https://github.com/hritik5102)
+
+
+## My Certifications :medal:
+
+- [Red Hat Certified System Administrator](https://media-exp1.licdn.com/dms/image/C4D2DAQFmWJMLW78TaQ/profile-treasury-image-shrink_1280_1280/0?e=1594677600&v=beta&t=VF9vSpwjLb26doBzifmN6QIZFVSEJAMvOWAiGh3Fzzo)
+- [Red Hat Certified Specialist in Ansible Automation](https://media-exp1.licdn.com/dms/image/C4D2DAQHoFhvsfOPa5g/profile-treasury-image-shrink_1280_1280/0?e=1594677600&v=beta&t=EZa7le_vjNz5nGFIuOKmJk-WuGnPjOQpWz615lcUniM)
+- [Red Hat Certified  Engineer](https://media-exp1.licdn.com/dms/image/C4D2DAQGL_J8Rvg88cg/profile-treasury-image-shrink_480_480/0?e=1594677600&v=beta&t=ns1Pf3Eh9CDkLzcBDMz-LDWg9ArVMBOffdwSKhXzKzs)
+
 
 ### Reach out to me 👓
 
