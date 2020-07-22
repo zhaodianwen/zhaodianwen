@@ -1,6 +1,6 @@
-# Hey there 👋 </h1>
+## Hey there 👋 I'm [Dianwen Zhao](https://zhaodianwen.github.io/) :smiley: </h1>
 
-## I'm [Dianwen Zhao](https://zhaodianwen.github.io/) :smiley:
+### About me :eyes:
 
 👨‍💻 Technical member of **[Team Z](https://zhaodianwen.github.io/)**
 
@@ -10,22 +10,23 @@
 
 🎓 B.B.A in Global Business Management and Finance from the **[School of Management and Economics, The Chinese University of Hong Kong, shenzhen](https://www.cuhk.edu.cn/)**
 
-## About me :eyes:
 
 ### 🌱 I’m currently working on ...
 
-- :toolbox: Data Business Analytics | Machine learning | Deep learning | FinTech   
+- :computer: Data Business Analytics | Machine learning | Deep learning | FinTech   
 - :writing_hand: Writing blogs on  **[Blog](https://zhaodianwen.github.io/)**
 - :mailbox_with_mail: Ask me about anything ; **[zhaodianwen@outlook.com](zhaodianwen@outlook.com)**
 
-### My Certifications :sparkler:
+
+
+## My Certifications :sparkler:
 
 - [Red Hat Certified System Administrator](https://media-exp1.licdn.com/dms/image/C4D2DAQFmWJMLW78TaQ/profile-treasury-image-shrink_1280_1280/0?e=1594677600&v=beta&t=VF9vSpwjLb26doBzifmN6QIZFVSEJAMvOWAiGh3Fzzo)
 - [Red Hat Certified Specialist in Ansible Automation](https://media-exp1.licdn.com/dms/image/C4D2DAQHoFhvsfOPa5g/profile-treasury-image-shrink_1280_1280/0?e=1594677600&v=beta&t=EZa7le_vjNz5nGFIuOKmJk-WuGnPjOQpWz615lcUniM)
 - [Red Hat Certified  Engineer](https://media-exp1.licdn.com/dms/image/C4D2DAQGL_J8Rvg88cg/profile-treasury-image-shrink_480_480/0?e=1594677600&v=beta&t=ns1Pf3Eh9CDkLzcBDMz-LDWg9ArVMBOffdwSKhXzKzs)
 
 
-### My Toolbox :computer:
+## My Toolbox :toolbox:
 
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c++&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow&link=https://github.com/hritik5102)](https://github.com/hritik5102)
 
@@ -39,12 +40,29 @@
 
 
 
-![Hritik's github stats](https://github-readme-stats.vercel.app/api?username=zhaodianwen&show_icons=true&hide_border=true)
-
-
 ### Reach out to me 👓
 
 |  <a href="https://hritik5102.github.io/"><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |       **[Dianwen Zhao](https://zhaodianwen.github.io/)**                                                                                |
-|<a href="https://twitter.com/"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> <a href="https://github.com/zhaodianwen"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> |
+|<p align = "center">
+ <a href="https://twitter.com/s08prashant">
+  <img align="center" alt="Prashant's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/prashant-singh-08/">
+  <img align="center" alt="Prashant's's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/singh08prashant">
+  <img align="center" alt="Prashant's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://t.me/s08prashant">
+  <img align="center" alt="Prashant's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://www.hackerrank.com/singh08prashant">
+  <img align="center" alt="Prashant's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+</a>|
+
+
+
+
+![Hritik's github stats](https://github-readme-stats.vercel.app/api?username=zhaodianwen&show_icons=true&hide_border=true)
