@@ -1,23 +1,31 @@
-# Hey there! 👋 </h1>
+# Hey there 👋 </h1>
 
-### I'm [Dianwen Zhao](https://zhaodianwen.github.io/) :smiley:
+## I'm [Dianwen Zhao](https://zhaodianwen.github.io/) :smiley:
 
 👨‍💻 Technical member of **[Team Z](https://zhaodianwen.github.io/)**
 
-👨‍🎓 MSc in Business Analytics from the **[Nanyang Technological University](https://www.ntu.edu.sg/Pages/home.aspx)**
+:bulb: Open source contributor at **[GitHub](https://zhaodianwen.github.io/)**
+
+👨‍🎓  M.Sc. in Business Analytics from the **[Nanyang Technological University](https://www.ntu.edu.sg/Pages/home.aspx)**
 
 🎓 B.B.A in Global Business Management and Finance from the **[School of Management and Economics, The Chinese University of Hong Kong, shenzhen](https://www.cuhk.edu.cn/)**
 
-### About me :eyes:
+## About me :eyes:
+
+### 🌱 I’m currently working on ...
 
 - :toolbox: Data Business Analytics | Machine learning | Deep learning | FinTech   
-- :bulb: Open source contributor at **[GitHub](https://zhaodianwen.github.io/)**
 - :writing_hand: Writing blogs on  **[Blog](https://zhaodianwen.github.io/)**
 - :mailbox_with_mail: Ask me about anything ; **[zhaodianwen@outlook.com](zhaodianwen@outlook.com)**
 
-![Hritik's github stats](https://github-readme-stats.vercel.app/api?username=zhaodianwen&show_icons=true&hide_border=true)
+### My Certifications :sparkler:
 
-### Languages and Tools :computer:
+- [Red Hat Certified System Administrator](https://media-exp1.licdn.com/dms/image/C4D2DAQFmWJMLW78TaQ/profile-treasury-image-shrink_1280_1280/0?e=1594677600&v=beta&t=VF9vSpwjLb26doBzifmN6QIZFVSEJAMvOWAiGh3Fzzo)
+- [Red Hat Certified Specialist in Ansible Automation](https://media-exp1.licdn.com/dms/image/C4D2DAQHoFhvsfOPa5g/profile-treasury-image-shrink_1280_1280/0?e=1594677600&v=beta&t=EZa7le_vjNz5nGFIuOKmJk-WuGnPjOQpWz615lcUniM)
+- [Red Hat Certified  Engineer](https://media-exp1.licdn.com/dms/image/C4D2DAQGL_J8Rvg88cg/profile-treasury-image-shrink_480_480/0?e=1594677600&v=beta&t=ns1Pf3Eh9CDkLzcBDMz-LDWg9ArVMBOffdwSKhXzKzs)
+
+
+### My Toolbox :computer:
 
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c++&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow&link=https://github.com/hritik5102)](https://github.com/hritik5102)
 
@@ -30,11 +38,8 @@
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/hritik5102)](https://gitlab.com/hritik5102) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/hritik5102)](https://github.com/hritik5102)
 
 
-## My Certifications :medal:
 
-- [Red Hat Certified System Administrator](https://media-exp1.licdn.com/dms/image/C4D2DAQFmWJMLW78TaQ/profile-treasury-image-shrink_1280_1280/0?e=1594677600&v=beta&t=VF9vSpwjLb26doBzifmN6QIZFVSEJAMvOWAiGh3Fzzo)
-- [Red Hat Certified Specialist in Ansible Automation](https://media-exp1.licdn.com/dms/image/C4D2DAQHoFhvsfOPa5g/profile-treasury-image-shrink_1280_1280/0?e=1594677600&v=beta&t=EZa7le_vjNz5nGFIuOKmJk-WuGnPjOQpWz615lcUniM)
-- [Red Hat Certified  Engineer](https://media-exp1.licdn.com/dms/image/C4D2DAQGL_J8Rvg88cg/profile-treasury-image-shrink_480_480/0?e=1594677600&v=beta&t=ns1Pf3Eh9CDkLzcBDMz-LDWg9ArVMBOffdwSKhXzKzs)
+![Hritik's github stats](https://github-readme-stats.vercel.app/api?username=zhaodianwen&show_icons=true&hide_border=true)
 
 
 ### Reach out to me 👓
