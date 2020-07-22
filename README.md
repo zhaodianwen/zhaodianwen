@@ -45,19 +45,31 @@
 |  <a href="https://hritik5102.github.io/"><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |       **[Dianwen Zhao](https://zhaodianwen.github.io/)**                                                                                |
-|  <a href="https://twitter.com/s08prashant">
-  <img align="center" alt="Prashant's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<a href="https://www.linkedin.com/in/prashant-singh-08/">
-  <img align="center" alt="Prashant's's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<a href="https://github.com/singh08prashant">
-  <img align="center" alt="Prashant's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-<a href="https://t.me/s08prashant">
-  <img align="center" alt="Prashant's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-<a href="https://www.hackerrank.com/singh08prashant">
-  <img align="center" alt="Prashant's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" /></a> |
+|  
+<div align="center">
+  <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3>
+</div>
+<p align="center">
+ <a href="https://www.linkedin.com/in/pramod-kumar-4aa47616b/" target="blank">
+  <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
+ </a>
+ <a href="https://www.instagram.com/cyber_freak_21/" target="blank">
+  <img align="center" alt="Pramod's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
+ </a>
+ <a href="https://twitter.com/pramod2107" target="blank">
+  <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;
+ </a>
+ <a href="https://medium.com/@pramodrana2107" target="blank">
+  <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />
+ </a>
+  <br/>
+  <br/>
 
+
+### 🏆 Github Status
 
 ![Hritik's github stats](https://github-readme-stats.vercel.app/api?username=zhaodianwen&show_icons=true&hide_border=true)
 
 
+Thanks for stopping by 😁
 [![HitCount](http://hits.dwyl.com/zhaodianwen/zhaodianwen/zhaodianwen.svg)](http://hits.dwyl.com/zhaodianwen/zhaodianwen/zhaodianwen) <br>
