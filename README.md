@@ -13,7 +13,7 @@
 
 ### 🌱 I’m currently working on ...
 
-- :computer: Data Business Analytics | Machine learning | Deep learning | FinTech   
+- :computer: Data Business Analytics | Machine Learning | Deep Learning | FinTech   
 - :writing_hand: Writing blogs on  **[Blog](https://zhaodianwen.github.io/)**
 - :mailbox_with_mail: Ask me about anything via **[zhaodianwen@outlook.com](zhaodianwen@outlook.com)**
 
