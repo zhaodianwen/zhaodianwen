@@ -15,7 +15,7 @@
 
 - :computer: Data Business Analytics | Machine learning | Deep learning | FinTech   
 - :writing_hand: Writing blogs on  **[Blog](https://zhaodianwen.github.io/)**
-- :mailbox_with_mail: Ask me about anything ; **[zhaodianwen@outlook.com](zhaodianwen@outlook.com)**
+- :mailbox_with_mail: Ask me about anything via **[zhaodianwen@outlook.com](zhaodianwen@outlook.com)**
 
 
 
