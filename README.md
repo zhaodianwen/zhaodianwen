@@ -8,7 +8,7 @@
 
 👨‍🎓  M.Sc. in Business Analytics from the **[Nanyang Business School, Nanyang Technological University](https://www.ntu.edu.sg/Pages/home.aspx)**
 
-🎓 B.B.A in Global Business Management and Finance from the **[School of Management and Economics, The Chinese University of Hong Kong, shenzhen](https://www.cuhk.edu.cn/)**
+🎓 B.B.A in Global Business Management and Finance from the **[School of Management and Economics, The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/)**
 
 :video_game: Nerd for JRPGs :space_invader:
 
